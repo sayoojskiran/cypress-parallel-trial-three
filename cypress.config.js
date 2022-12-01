@@ -1,4 +1,4 @@
 module.exports = {
-  'projectId': 'wpdoqv',
+  'projectId': 'khq4m1',
   e2e: {}
 }
